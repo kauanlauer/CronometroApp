@@ -1,0 +1,16 @@
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\bin\Debug\net8.0-windows\CronometroApp.exe
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\bin\Debug\net8.0-windows\CronometroApp.deps.json
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\bin\Debug\net8.0-windows\CronometroApp.runtimeconfig.json
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\bin\Debug\net8.0-windows\CronometroApp.dll
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\bin\Debug\net8.0-windows\CronometroApp.pdb
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\obj\Debug\net8.0-windows\CronometroApp.Form1.resources
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\obj\Debug\net8.0-windows\CronometroApp.csproj.GenerateResource.cache
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\obj\Debug\net8.0-windows\CronometroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\obj\Debug\net8.0-windows\CronometroApp.AssemblyInfoInputs.cache
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\obj\Debug\net8.0-windows\CronometroApp.AssemblyInfo.cs
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\obj\Debug\net8.0-windows\CronometroApp.csproj.CoreCompileInputs.cache
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\obj\Debug\net8.0-windows\CronometroApp.dll
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\obj\Debug\net8.0-windows\refint\CronometroApp.dll
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\obj\Debug\net8.0-windows\CronometroApp.pdb
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\obj\Debug\net8.0-windows\CronometroApp.genruntimeconfig.cache
+C:\Users\Kauan Lauer\source\repos\CronometroApp\CronometroApp\obj\Debug\net8.0-windows\ref\CronometroApp.dll
